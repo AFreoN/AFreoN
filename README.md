@@ -48,8 +48,8 @@ Currently building action-adventure game in Unity and 3D web tools in React.
 ## 📊 My GitHub Stats
 
 <!-- remove layout=compact so languages render as separate bars -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=afreon&theme=dark)
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=afreon&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AFreoN&theme=dracula&count_private=true)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=AFreoN&show_icons=true&theme=dracula&count_private=true)
 
 ---
 
